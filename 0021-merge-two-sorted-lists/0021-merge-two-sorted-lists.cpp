@@ -18,6 +18,14 @@ public:
     {
         return NULL;
     }
+    if(list1 == NULL){
+        return list2;
+    }
+    if(list2 == NULL){
+        return list1;
+    }
+
+
 
         while(list1 != NULL && list2 != NULL)
         {
