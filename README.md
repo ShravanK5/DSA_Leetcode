@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
