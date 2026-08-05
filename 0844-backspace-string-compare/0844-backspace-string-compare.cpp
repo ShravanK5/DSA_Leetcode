@@ -12,9 +12,6 @@ public:
                 {
                     ss.pop();
                 }
-                else{
-                    continue;
-                }
             }
             else
             {
@@ -29,9 +26,7 @@ public:
                 {
                     tt.pop();
                 }
-                else{
-                    continue;
-                }
+
             }
             else
             {
