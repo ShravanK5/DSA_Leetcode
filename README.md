@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
