@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ShravanK5/DSA_Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShravanK5/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
