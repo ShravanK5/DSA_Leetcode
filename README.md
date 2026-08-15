@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ShravanK5/DSA_Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShravanK5/DSA_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/ShravanK5/DSA_Leetcode/tree/master/3731-find-missing-elements) |
@@ -226,5 +228,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShravanK5/DSA_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
