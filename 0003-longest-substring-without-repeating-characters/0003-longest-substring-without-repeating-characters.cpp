@@ -4,7 +4,7 @@ public:
         set<char>st;
         int len =0;
         int left =0;
-        for(int i = 0 ; i< s.length();i++)
+        for(int i = 0 ; i < s.size() ;i++)
         {
             while(st.find(s[i]) != st.end())
             {
@@ -12,8 +12,9 @@ public:
                 left++;
             }
             st.insert(s[i]);
-            len = max(len , i - left +1);
+            len = max(len, i- left +1);
         }
         return len;
     }
 };
+
