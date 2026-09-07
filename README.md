@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShravanK5/DSA_Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
