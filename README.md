@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0229-majority-element-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0229-majority-element-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
