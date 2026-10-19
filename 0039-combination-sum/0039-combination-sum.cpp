@@ -1,29 +1,30 @@
 class Solution {
 
     private:
-        void solve(vector<int>& candidates,int index,vector<vector<int>> &ans,vector <int> output,int target,int sum)
+        void solve(vector<int>& candidates,int index,vector<vector<int>> &ans,vector <int> output,int target)
         {
            // Base case
-            if (sum == target) {
+            if (target == 0) {
                 ans.push_back(output);
                 return;
             }
 
-            if (index >= candidates.size() || sum > target) {
+            if (index >= candidates.size() ) {
                 return;
             }
 
  
             //include 
-            
-            sum = sum + candidates[index];
+           if(candidates[index] <= target )
+           { 
+            target = target - candidates[index];
             output.push_back(candidates[index]);
-            solve(candidates,index, ans ,output, target ,sum);
+            solve(candidates,index, ans ,output, target);
             output.pop_back();
-            sum = sum - candidates[index];
-
+            target = target + candidates[index];
+           }
             //exculde 
-            solve(candidates,index+1, ans ,output, target,sum );
+            solve(candidates,index+1, ans ,output, target );
 
 
         }
@@ -33,7 +34,7 @@ public:
         vector <int> output;
         int index = 0 ;
         
-        solve(candidates,index, ans ,output, target,0 );
+        solve(candidates,index, ans ,output, target );
         return ans;
     }
 };
