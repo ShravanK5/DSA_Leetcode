@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0078-subsets) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ShravanK5/DSA_Leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
