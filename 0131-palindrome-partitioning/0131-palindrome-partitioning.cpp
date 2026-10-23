@@ -15,20 +15,20 @@ private:
         return true;
     }
 
-        void solve(string s, vector<vector<string>>& ans, vector<string>& output, int index) {
+        void solve(string s, vector<vector<string>>& ans, vector<string>& output) {
         // base case
-        if (index == s.length()) {
+        if (s.size() == 0 ) {
             ans.push_back(output);
             return;
         }
 
-        for (int i = index; i < s.length(); i++) {
-            string sub = s.substr(index, i - index + 1);
+        for (int i = 0; i < s.size(); i++) {
+            string sub = s.substr(0, i + 1);
             if(isPalindrome(sub))
             {
             output.push_back(sub);
 
-            solve(s, ans, output, i + 1);
+            solve(s.substr(i + 1), ans, output);
             output.pop_back();
             }
         }
@@ -39,9 +39,8 @@ public:
         // for loop banake substring genaarte karo and then chack at evry state
         vector<vector<string>> ans;
         vector<string> output;
-        int index = 0;
 
-        solve(s, ans, output, index);
+        solve(s, ans, output);
         return ans;
     }
 };
